@@ -72,7 +72,7 @@ Between analytics and art lies my playground.
 ###  Let’s Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/pooriaghahramani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/pooria-ghahramani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://ghahramani.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF2E63?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://public.tableau.com/app/profile/pooria.ghahramani/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-1E76B3?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 </p>
