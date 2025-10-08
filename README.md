@@ -29,7 +29,7 @@ ETL Pipelines · Database Administration · Statistical Analysis
 
 ###  Featured Projects  
 
-| 🧩 Project | 🔍 Description | ⚙️ Tech Stack |
+|  Project |  Description |  Tech Stack |
 |------------|----------------|---------------|
 | [**Obesity Analysis in Latin America**](https://github.com/Gazrasepah/obesity-analysis) | Used ML algorithms (XGBoost, Decision Tree, SVM, Random Forest) to classify obesity levels and identify key factors. | Python · Scikit-learn · Pandas · NumPy |
 | [**Customer Churn Analysis**](https://github.com/Gazrasepah/customer-churn) | Analyzed telecom customer data to detect churn patterns and improve retention. | Python · WEKA · SQL |
@@ -50,7 +50,7 @@ ETL Pipelines · Database Administration · Statistical Analysis
 
 ---
 
-### 🧭 Current Focus & Tools I Love
+###  Current Focus & Tools I Love
 
  Exploring quantum computing for cloud cybersecurity  
  Building portfolio analytics dashboards in Tableau  
@@ -69,7 +69,7 @@ Between analytics and art lies my playground.
 
 ---
 
-### 🧩 Let’s Connect  
+###  Let’s Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/pooriaghahramani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
