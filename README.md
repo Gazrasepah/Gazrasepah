@@ -33,7 +33,7 @@ ETL Pipelines · Database Administration · Statistical Analysis
 |------------|----------------|---------------|
 | [**Obesity Analysis in Latin America**](https://github.com/Gazrasepah/obesity-analysis) | Used ML algorithms (XGBoost, Decision Tree, SVM, Random Forest) to classify obesity levels and identify key factors. | Python · Scikit-learn · Pandas · NumPy |
 | [**Customer Churn Analysis**](https://github.com/Gazrasepah/customer-churn) | Analyzed telecom customer data to detect churn patterns and improve retention. | Python · WEKA · SQL |
-| [**Meta DBA Project**]((https://github.com/Gazrasepah/DBA-project)) | SQL-based database administration system with automated backup & recovery solutions. | SQL · Python · Database Admin |
+|[**Meta DBA Project**](https://github.com/Gazrasepah/meta-dba-project) | SQL-based database administration system with automated backup & recovery solutions. | SQL · Python · Database Admin |
 | [**Data Visualization Portfolio**](https://public.tableau.com/app/profile/pooria.ghahramani/vizzes) | Interactive dashboards showcasing business insights and storytelling. | Tableau |
 | [**ghahramani.xyz**](https://ghahramani.xyz) | Personal data portfolio website integrating analytics and branding projects. | Web Dev · HTML · JS |
 | [**Un-Rulable Website**](https://un-rulable.com) | Full-stack creative agency site — merging brand intelligence, data, and design. | Web Dev · Branding |
